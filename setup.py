@@ -13,7 +13,7 @@ setup(
     description=('Strava API client supporting high level integration with Django.'),
     author='Lincolwn Martins',
     author_email='lincolwn@gmail.com',
-    url='https://github.com/lincolwn/python-strava',
+    url='https://github.com/ThiagoDiasV/python-strava',
     keywords='strava client django',
     packages=find_packages(),
     license='MIT License',
